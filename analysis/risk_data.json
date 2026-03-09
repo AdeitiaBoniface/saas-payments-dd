@@ -1,0 +1,82 @@
+{
+  "engagement": {
+    "title": "Cross-Border Payments SaaS — M&A Tech Due Diligence",
+    "deal_size": "$22M",
+    "stage": "Series B",
+    "domain": "Payments / Transactions",
+    "geography": "North America + Southeast Asia",
+    "engagement_weeks": 6
+  },
+  "dimensions": [
+    {
+      "id": "scalability",
+      "label": "Infrastructure\nScalability",
+      "score": 3.2,
+      "max_score": 5.0,
+      "rag": "amber",
+      "summary": "Scalable to 3x; $1.2M investment required for 5x"
+    },
+    {
+      "id": "product_maturity",
+      "label": "Product\nMaturity",
+      "score": 3.4,
+      "max_score": 5.0,
+      "rag": "green",
+      "summary": "Stage 3 (Scaling). Strong core, gaps are opportunities"
+    },
+    {
+      "id": "technical_debt",
+      "label": "Technical\nDebt",
+      "score": 2.8,
+      "max_score": 5.0,
+      "rag": "amber",
+      "summary": "~$1.5M quantified. Structured as escrow in deal terms"
+    },
+    {
+      "id": "security_compliance",
+      "label": "Security &\nCompliance",
+      "score": 3.8,
+      "max_score": 5.0,
+      "rag": "green",
+      "summary": "SOC2 current. 2 control gaps remediated during engagement"
+    },
+    {
+      "id": "team_dependency",
+      "label": "Team &\nKey-Person Risk",
+      "score": 2.5,
+      "max_score": 5.0,
+      "rag": "red",
+      "summary": "1 high-risk key-person dependency. Retention plan structured"
+    },
+    {
+      "id": "integration_risk",
+      "label": "Integration\nReadiness",
+      "score": 3.0,
+      "max_score": 5.0,
+      "rag": "amber",
+      "summary": "PSP transfer and data migration are critical Day 1 items"
+    }
+  ],
+  "deal_conditions": [
+    {
+      "id": "DC-01",
+      "description": "Tech debt escrow of $1.5M, held 18 months post-close",
+      "status": "agreed"
+    },
+    {
+      "id": "DC-02",
+      "description": "SOC2 control gap remediation evidence pre-close",
+      "status": "satisfied"
+    },
+    {
+      "id": "DC-03",
+      "description": "PSP consent letters and contract assignment pre-close",
+      "status": "agreed"
+    },
+    {
+      "id": "DC-04",
+      "description": "Rail diversification: second PSP at 20% volume within 15 months",
+      "status": "agreed"
+    }
+  ]
+}
