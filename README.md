@@ -1,6 +1,6 @@
 # 📦 M&A Tech Due Diligence: Cross-Border Payments SaaS
 
-> **Case Study · Product Portfolio · Adeitia K. Boniface**  
+> **Case Study · Product Portfolio · Adeitia Kalyann Boniface**  
 > Role: Director of Product (Fractional M&A Advisor) | Engagement: 6 weeks | Deal Size: $22M
 
 ---
@@ -160,11 +160,7 @@ This case study is part of a product portfolio documenting my work as a **Fracti
 
 ## Connect
 
-**Adeitia K. Boniface**  
-Director of Product · M&A Technology Advisor · PhD Candidate (IIM Visakhapatnam)
-
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adeitiaboniface/)
-- 📧 adeitiaboniface@gmail.com
-- 📍 Chennai, India · Available globally (remote + on-site)
+- 📍 Chennai, India
 
 > *Open to fractional engagements with PE/VC-backed Fintech SaaS companies. Typical availability: 2–3 days/week.*
